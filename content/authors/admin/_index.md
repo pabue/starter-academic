@@ -22,8 +22,6 @@ social:
 organizations:
   - name: The University of Texas at Austin
     url: https://www.utexas.edu/
-  - name: Covenant University
-    url: https://covenantuniversity.edu.ng
 education:
   courses:
     - course: MSc in Chemical Engineering
