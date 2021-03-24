@@ -84,3 +84,4 @@
  ## Get inspired
 
  [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
+delete: 'content/home/demo.md'
