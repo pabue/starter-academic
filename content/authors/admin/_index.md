@@ -1,6 +1,6 @@
 ---
 role: Chemical Engineering, Graduate Student
-avatar_filename: img_7334.png
+avatar_filename: pearl.png
 bio: My research interests include Indoor air quality, Outdoor air quality and
   atmospheric chemistry.
 interests:
